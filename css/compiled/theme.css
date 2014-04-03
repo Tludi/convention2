@@ -378,6 +378,10 @@ ul {
   text-align: center;
 }
 
+.right {
+  float:right;
+}
+
 .plan {
   margin-top: 20px;
 }
