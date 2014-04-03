@@ -106,8 +106,8 @@ header {
     font-weight: 300;
     font-style: italic;
     font-size: 27px;
-    font-size: 45px;
-    border-bottom: 1px solid #b3b3b3;
+    font-size: 55px;
+    border-bottom: 1px solid #ddd;
     padding-bottom: 0px;
     display: inline-block;
     margin: 0; }
@@ -118,6 +118,7 @@ header {
   min-height: 260px;
   margin-top: 140px;
   background-color: #252528;
+  background-color: #415e9b;
   color: #fff;
   padding-top: 35px;
   /* testimonials */
