@@ -6,9 +6,16 @@
       margin-bottom: 40px;
       position: relative;
       height: 431px; }
-      #portfolio_tem .left_box .big img {
-        position: absolute;
-        border-radius: 5px; }
+      
+#portfolio_tem .left_box .big img {
+  position: absolute;
+  border-radius: 5px; }
+
+#portfolio_tem .left_box .big img .iris{
+  /*position: absolute;*/
+  border-radius: 5px; }
+
+
   #portfolio_tem .thumbs .thumb {
     float: left;
     position: relative;
@@ -46,7 +53,7 @@
     float: right;
     margin-top: 14px; }
     #portfolio_tem .right_box h2 {
-      font-size: 28px;
+      font-size: 32px;
       line-height: 27px;
       margin: 0 0 25px 0; }
     #portfolio_tem .right_box p {
@@ -74,3 +81,12 @@
       width: 100%; }
   #portfolio_tem .thumbs .thumb {
     margin-right: 5px; } }
+
+#portfolio_tem .blog_header {
+  font-size: 32px;
+  position: relative;
+  top: -6px;
+  color: #1189D9;
+  line-height: 20px;
+  font-weight: normal;
+}
