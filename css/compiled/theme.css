@@ -121,7 +121,9 @@ header {
     border-bottom: 1px solid #bddfeb;
     padding-bottom: 0px;
     display: inline-block;
-    margin: 0; }
+    /*margin: 0;*/
+    margin-top: 25px;
+     }
 
 /* Footer
 -------------------------------------------------- */
@@ -379,7 +381,7 @@ header {
 }
 
 .mapsize {
-  width: 80%;
+  width: 91%;
 }
 
 ul {
